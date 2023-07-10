@@ -1,0 +1,15 @@
+total 52
+drwxrwxr-x 2 michael michael 4096 Jul 10 21:35 .
+drwxrwxr-x 6 michael michael 4096 Jul 10 19:03 ..
+-rwxrw-r-- 1 michael michael   36 Jul 10 19:12 0-hello_world
+-rwx------ 1 michael michael   32 Jul 10 19:25 1-confused_smiley
+-rwx------ 1 michael michael   28 Jul 10 19:32 2-hellofile
+-rwx------ 1 michael michael   39 Jul 10 19:37 3-twofiles
+-rwx------ 1 michael michael   29 Jul 10 19:41 4-lastlines
+-rwx------ 1 michael michael   29 Jul 10 19:44 5-firstlines
+-rwx------ 1 michael michael   36 Jul 10 19:51 6-third_line
+-rwx------ 1 michael michael   78 Jul 10 21:04 7-file
+-rwx------ 1 michael michael   36 Jul 10 21:34 8-cwd_state
+-rw-rw-r-- 1 michael michael   12 Jul 10 21:05 \*\\'"Best School"\'\\*$\?\*\*\*\*\*:)
+-rw-rw-r-- 1 michael michael    0 Jul 10 21:35 ls_cwd_content
+-rw-rw-r-- 1 michael michael   23 Jul 10 19:04 README.md
